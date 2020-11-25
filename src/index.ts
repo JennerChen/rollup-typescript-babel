@@ -1,7 +1,6 @@
 import { Counter } from './counter/counter';
 import { someHelpfulUtilFunction } from './util';
-
-
+import App from "./App";
 export interface Props {
   x: number;
   y: number;
@@ -41,3 +40,5 @@ counter.getValue();
 counter.subtract();
 counter.subtract();
 counter.getValue();
+
+App(document.getElementById("root") || document.body)

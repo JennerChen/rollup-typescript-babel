@@ -1,6 +1,6 @@
-# Rollup-TypeScript-Babel
+# Rollup-React-TypeScript-Babel
 
-> This is sample repository demonstrates how to use Rollup, TypeScript and Babel
+> This is sample repository demonstrates how to use Rollup,React, TypeScript and Babel
 
 ## Building the repo
 
